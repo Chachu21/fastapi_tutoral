@@ -1,0 +1,26 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Virtual Environments =====
+venv/
+.venv/
+env/
+
+# ===== Environment Variables =====
+.env
+
+# ===== Logs =====
+*.log
+
+# ===== IDE / Editors =====
+.vscode/
+.idea/
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Database =====
+*.sqlite3
